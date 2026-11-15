@@ -35,7 +35,7 @@ A routine transaction approved at 10:00 AM was the start of one of the largest c
 3. The amount stolen
 
 ### Approach
-I started with the recent **Binance hack**, but it turned out to be incorrect. I kept searching and found a write-up of the **2025 Bybit hack**, which matched every clue:
+I started with the recent **Binance hack**, but it turned out to be incorrect. I kept searching and found a website of the **2025 Bybit hack**, which matched every clue:
 
 | Clue | Match |
 |------|-------|
